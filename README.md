@@ -1,3 +1,6 @@
+### PERHATIAN!!
+Karena Dokuku yang lama kebanyakan memakai log4net 1.2.10. maka untuk mengakomodasi itu, terpaksa log4net didowngrade dari versi aslinya.
+
 # Seq.Client.Log4Net [![Build status](https://ci.appveyor.com/api/projects/status/sxw4n1a6v9o7db2i?svg=true)](https://ci.appveyor.com/project/datalust/seq-client)
 
 An Apache log4net appender that writes events to Seq.
